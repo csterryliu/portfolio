@@ -74,4 +74,4 @@
 
 ## Busybox 與 Dropbear 移植於 Android 2.2 之實作 ##
 - Porting [Busybox](https://www.busybox.net/) and [Dropbear](https://matt.ucc.asn.au/dropbear/dropbear.html) to Android 2.2
-- Details are in [PDF](https://drive.google.com/open?id=0B8acgSky4xHzQ2ptbEprd0NWR3c)
+- Details are in [PDF](https://drive.google.com/file/d/1bVaggVOvfD3CS7feaEAoSvS-z7FJVSBg/view?usp=sharing)
