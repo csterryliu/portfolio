@@ -3,7 +3,7 @@
 [Website](https://lalg-pro.herokuapp.com/)
 
 [Source code](https://github.com/csterryliu/Legal-Attest-Letter-Generator-TW-Django)
-- Released on May, 2018
+- Released in May, 2018
 - My web version of my Legal Attest Letter Generator
 - It has better web UI and functionality
 - It also integrates my Python module
@@ -13,7 +13,7 @@
 # 2017 #
 ## The first webpage of Legal Attest Letter Generator ##
 [Website](https://lalg.herokuapp.com)
-- Released on June, 2017
+- Released in June, 2017
 - The website is developed by [Yen Lee](https://github.com/lyenliang)
 - It integrates my Python module
 - It has become a practical legal tool for many people in Taiwan 
