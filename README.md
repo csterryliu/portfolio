@@ -8,7 +8,7 @@
 - It has better web UI and functionality
 - It also integrates my Python module
 - It was implemented in Django/Python 3/Bootstrap/JQuery/JavaScript
-- It has 9 stargazers and 1 fork
+- It has 11 stargazers and 1 fork
 
 ----
 # 2017 #
@@ -33,7 +33,7 @@
 - It can be imported as a Python module
 - I provide a script so that users can use it on CLI
 - I also offer a GUI, but it is not completed yet
-- It has 36 stargazers and 9 forks
+- It has 38 stargazers and 9 forks
 
 
 ----
