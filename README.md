@@ -51,7 +51,7 @@
 - A work of 2012 Telecom Innovation and Application Contest, Chunghwa Telecom
 - An educational Android app that helps children translate some common English sentences and practice their pronunciation
 - It uses [CMU PocketSphinx](https://github.com/cmusphinx/pocketsphinx) as the voice recognition core
-- [Click it to read overview](https://drive.google.com/open?id=0B8acgSky4xHzNUgtQjFTbkhEazg)
+- [Click it to read overview](https://drive.google.com/file/d/1JdFBHZc2y9sYRNdKoNohjf0wIadfghw4/view?usp=sharing)
 - [Click it to watch a short concept film for the contest](http://www.dailymotion.com/video/k1s6zLMD79FlUm3gLeh)
 
 ## Prototypes of iOS English/Chinese Recognition System ##
@@ -59,7 +59,7 @@
 - 2 prototypes: 
     - Chinese/English voice command system
     - An helper for remembering Tang poetry
-- [Click it to see snapshots of prototypes](https://drive.google.com/open?id=0B8acgSky4xHzNXJHeFN0Y3gxbzg)
+- [Click it to see snapshots of prototypes](https://drive.google.com/file/d/18KM1ZAI2kMzFlUlz0UnMg0SSdCVlSSGE/view?usp=sharing)
 
 ----
 # 2010 #
@@ -67,14 +67,14 @@
 - A work of 2010 Project Contest of Dept. of CSIE, Tamkang University
 - A Linux mobile application running on [Openmoko Neo FreeRunner](https://en.wikipedia.org/wiki/Neo_FreeRunner?oldformat=true)
 - It is a text-to-speech system. However, it **can't** do the real speech synthesis. So this work is basically a multi-threaded application which consists of database, voice files, GTK-based UI, etc.
-- Details are in [PDF](https://drive.google.com/open?id=0B8acgSky4xHzYVJFN2szci1RN0k)
+- Details are in [PDF](https://drive.google.com/file/d/1rpIcXVYZQQARqzv-fCuEzcef8E57NeFL/view?usp=sharing)
 
 ## 通訊瑞士刀 ##
 - A work of 2010 MobileHero contest
 - An Android app that helps people managing their contacts
 - It also provides a cute widget which shows system notifications and lets people make phone calls
-- Details are in [PDF](https://drive.google.com/open?id=0B8acgSky4xHzOHFNV0x1ejduMkE)
+- Details are in [PDF](https://drive.google.com/file/d/1gIZ8QQvrXtGr8Q98GBi9nykZodZqkJ_p/view?usp=sharing)
 
 ## Busybox 與 Dropbear 移植於 Android 2.2 之實作 ##
 - Porting [Busybox](https://www.busybox.net/) and [Dropbear](https://matt.ucc.asn.au/dropbear/dropbear.html) to Android 2.2
-- Details are in [PDF](https://drive.google.com/file/d/1bVaggVOvfD3CS7feaEAoSvS-z7FJVSBg/view?usp=sharing)
+- Details are in [PDF](https://drive.google.com/file/d/1gIZ8QQvrXtGr8Q98GBi9nykZodZqkJ_p/view?usp=sharing)
