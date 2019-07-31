@@ -33,7 +33,7 @@
 - It can be imported as a Python module
 - I provide a script so that users can use it on CLI
 - I also offer a GUI, but it is not completed yet
-- It has 39 stargazers and 9 forks
+- It has 39 stargazers and 11 forks
 
 
 ----
